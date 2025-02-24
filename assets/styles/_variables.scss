@@ -1,0 +1,78 @@
+// Colors
+$primary-color: #ffd640;
+$secondary-color: #303030;
+$light-secondary-color: #898989;
+$background-color: #e3e4e7;
+$text-color: #e3e4e7;
+$white-color: #f7f6f2;
+
+// Typography
+$font-size-base: 16px;
+$font-size-lg: 18px;
+$font-size-sm: 14px;
+$font-weight-normal: 400;
+$font-weight-bold: 700;
+$line-height-base: 1.5;
+
+// Spacing
+$spacing-xs: 4px;
+$spacing-sm: 8px;
+$spacing-md: 16px;
+$spacing-lg: 24px;
+$spacing-xl: 32px;
+
+// Breakpoints
+$breakpoint-xs: 320px;
+$breakpoint-sm: 576px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 992px;
+$breakpoint-xl: 1200px;
+
+// Border radius
+$border-radius-sm: 4px;
+$border-radius-md: 8px;
+$border-radius-lg: 16px;
+$border-radius-card: 22px;
+
+// Transitions
+$transition-base: all 0.3s ease;
+$transition-fast: all 0.15s ease;
+$transition-slow: all 0.45s ease;
+
+// Shadows
+$shadow-card: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+
+// Layout
+$header-height: 100px;
+$sidebar-width: 250px;
+$background-gradient: linear-gradient(
+  to right bottom,
+  #e3e4e7,
+  #e1e6e9,
+  #dee8e9,
+  #dee9e6,
+  #e2eae2,
+  #e4ebdd,
+  #e8ebd7,
+  #efead2,
+  #f2eac9,
+  #f6eac1,
+  #faeab8,
+  #feeaaf
+);
+
+$card-gradient: linear-gradient(
+  to right bottom,
+  #e3e4e7,
+  #e1e6e9,
+  #dee8e9,
+  #dee9e6,
+  #e2eae2,
+  #e4ebdd,
+  #e8ebd7,
+  #efead2,
+  #f2eac9,
+  #f6eac1,
+  #faeab8,
+  #feeaaf
+);
